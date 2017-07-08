@@ -4,3 +4,4 @@ Black
 Red
 Brown
 Pink
+Magenta
