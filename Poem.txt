@@ -3,3 +3,4 @@ Yellow
 Black
 Red
 Brown
+Pink
